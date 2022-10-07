@@ -1,1 +1,1 @@
-# addition-in-javascript
+# addition-in-JS
